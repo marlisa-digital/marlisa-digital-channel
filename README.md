@@ -8,19 +8,19 @@ Freelance Data & Automation Support
 
 ### Sena Bot
 Discord automation bot for attandance 
-https://github.com/marilsa-digital/Sena-bot
+[View Repository](https://github.com/marilsa-digital/Sena-bot)
 
-### LokoPOS Apps
+### TokoPOS Apps
 POS system prototype  
-https://github.com/marilsa-digital/lokoPos-Apps
+[View Repository](https://github.com/marilsa-digital/TokoPos-Apps)
 
 ### Product Digital Apps
 Digital product platform  
-https://github.com/marilsa-digital/Product-Digital-Apps
+[View Repository](https://github.com/marilsa-digital/Product-Digital-Apps)
 
 ### Mockup Interview
 Simple games for kids  
-https://github.com/marilsa-digital/Games-anak
+[View Repository](https://github.com/marilsa-digital/Games-anak)
 
 ## Skills
 
