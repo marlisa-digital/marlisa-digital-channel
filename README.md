@@ -7,7 +7,7 @@ Freelance Data & Automation Support
 ## Featured Projects
 
 ### Sena Bot
-Discord automation bot  
+Discord automation bot for attandance 
 https://github.com/marilsa-digital/Sena-bot
 
 ### LokoPOS Apps
@@ -19,11 +19,23 @@ Digital product platform
 https://github.com/marilsa-digital/Product-Digital-Apps
 
 ### Mockup Interview
-Interview practice & mock questions  
-https://github.com/marilsa-digital/Mockup-Interview
+Simple games for kids  
+https://github.com/marilsa-digital/Games-anak
 
-Skills
+## Skills
+
+Data & Automation
 - Data Cleaning
 - Excel Automation
-- Discord Setup
-- Administrative Support
+- Data Entry
+
+AI Tools
+- ChatGPT (content generation, workflow automation)
+- Claude (apps development,research & documentation)
+- Midjourney / DALL·E (image generation)
+
+Tools
+- Microsoft Excel
+- Google Sheets
+- Discord Server Setup
+- GitHub
